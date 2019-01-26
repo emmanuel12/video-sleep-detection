@@ -89,7 +89,7 @@ import multiprocessing
 import pandas as pd
 
 
-class MotionNot:
+class Motion:
 	def __init__(self):
 		self.points = []
 		self.motionornot = []
